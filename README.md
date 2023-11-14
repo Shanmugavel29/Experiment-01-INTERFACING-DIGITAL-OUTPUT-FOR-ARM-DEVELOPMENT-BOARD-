@@ -35,8 +35,7 @@ The main features of LPC2148 include the following.
  
 
 ## Procedure:
- 1. click on STM 32 CUBE IDE, the following screen will appear 
- ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
+ 1. click on STM 32 CUBE IDE.
  2. click on FILE, click on new stm 32 project 
  3. select the target to be programmed  as shown below and click on next 
  4.select the program name 
